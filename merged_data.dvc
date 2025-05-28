@@ -1,0 +1,6 @@
+outs:
+- md5: ba1e20a41bfa7fb26bea8486760be2f0.dir
+  size: 31917661
+  nfiles: 1
+  hash: md5
+  path: merged_data
